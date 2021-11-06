@@ -1,2 +1,2 @@
 Hello,
-this me fiddling with GIT at 3am. Why am I doing this to myself? 
+this is me fiddling with GIT at 3am. Why am I doing this to myself? 
